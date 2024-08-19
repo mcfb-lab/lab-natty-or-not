@@ -1,7 +1,7 @@
 # O Crononauta
 
 ## 📒 Descrição
-O projeto “O Crononauta” é uma exploração fascinante do potencial das IAs Generativas na vida cotidiana. 
+O projeto “O Crononauta” é uma exploração fascinante do potencial das IAs Generativas na vida cotidiana.
 A missão é mergulhar no futuro e apresentar como essas tecnologias estão transformando a maneira como interagimos com o mundo digital.
 
 ## 🤖 Tecnologias Utilizadas
@@ -19,7 +19,5 @@ O vídeo “O Crononauta” é uma cápsula do tempo que leva os espectadores a 
 Criar algo “O Crononauta” com IA é um desafio emocionante. A busca pela perfeição e pela sensação humana é constante, mas também nos leva a explorar novas fronteiras criativas. 
 Acredito que a colaboração entre humanos e IA pode resultar em experiências verdadeiramente únicas e esteticamente agradáveis. 🌟
 
-
 ### Projeto
-
 - [A Crononauta](/exemplos/a_crononauta.mp4)
