@@ -16,6 +16,6 @@ A missão é mergulhar no futuro e apresentar como essas tecnologias estão tran
 O vídeo “A Crononauta” é uma cápsula do tempo que leva os espectadores a uma jornada rápida pelo mundo das IAs Generativas.
 Quero inspirar e provocar reflexões sobre o futuro da tecnologia.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Criar algo “A Crononauta” com IA é um desafio emocionante. A busca pela perfeição e pela sensação humana é constante, mas também nos leva a explorar novas fronteiras criativas.\
 Acredito que a colaboração entre humanos e IA pode resultar em experiências verdadeiramente únicas e esteticamente agradáveis. 🌟
