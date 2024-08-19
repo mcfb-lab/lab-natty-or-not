@@ -5,8 +5,8 @@ O projeto “[A Crononauta](/exemplos/a_crononauta.mp4)” é uma exploração f
 A missão é mergulhar no futuro e apresentar como essas tecnologias estão transformando a maneira como interagimos com o mundo digital.
 
 ## 🤖 Tecnologias Utilizadas
-**ChatGPT**: Utilizamos o ChatGPT para roteirização e revisão do vídeo. Ele nos ajuda a criar diálogos envolventes e a estruturar nossa narrativa.\
-**D-ID**: A D-ID é essencial para criar avatares virtuais e sintetizar vozes personalizadas. Com ela, trazemos uma dimensão futurística ao nosso projeto.
+**[ChatGPT](https://chat.openai.com)**: Utilizamos o ChatGPT para roteirização e revisão do vídeo. Ele nos ajuda a criar diálogos envolventes e a estruturar nossa narrativa.\
+**[D-ID](https://www.d-id.com)**: A D-ID é essencial para criar avatares virtuais e sintetizar vozes personalizadas. Com ela, trazemos uma dimensão futurística ao nosso projeto.
 
 ## 🧐 Processo de Criação
 1. **Roteiro e Revisão**: O ChatGPT me ajudou a escrever e revisar o roteiro do vídeo. Explorar conceitos, criar diálogos e definir a estrutura.
